@@ -1,6 +1,4 @@
-
-
-#### Math-Solver-AI by Niloy Deb Barma
+#### Math Solver AI by Niloy Deb Barma
 
 ## Overview
 I've developed the Math Solver AI to automate the solution of various mathematical problems using advanced algorithms and machine learning models. It aims to provide accurate solutions to equations and calculus problems, making mathematics more accessible and understandable.
