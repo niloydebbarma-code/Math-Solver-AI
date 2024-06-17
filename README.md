@@ -1,1 +1,1 @@
-# Meth-Solver-AI
+# Math-Solver-AI
