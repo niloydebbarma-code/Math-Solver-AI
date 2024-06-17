@@ -50,25 +50,3 @@ class MathSolverAI:
         plt.grid(color = 'gray', linestyle = '--', linewidth = 0.5)
         plt.legend()
         plt.show()
-
-# Example usage
-if __name__ == "__main__":
-    solver = MathSolverAI()
-
-    # Solve a linear equation
-    equation = "2*x + 5 - 15"
-    solution = solver.solve_equation(equation)
-    print(f"Solutions for equation {equation}: {solution}")
-
-    # Differentiate a function
-    function = "x**2 + 2*x + 1"
-    derivative = solver.differentiate(function)
-    print(f"Derivative of {function}: {derivative}")
-
-    # Integrate a function
-    integral = solver.integrate(function)
-    print(f"Integral of {function}: {integral}")
-
-    # Plot a graph
-    function = "x**2 - 4"
-    solver.plot_graph(function)
